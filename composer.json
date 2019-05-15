@@ -1,0 +1,14 @@
+{
+    "name": "jonpugh/nodeposer",
+    "description": "Node in Composer example",
+    "type": "project",
+    "require": {
+        "mouf/nodejs-installer": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Jon Pugh",
+            "email": "jon@thinkdrop.net"
+        }
+    ]
+}
