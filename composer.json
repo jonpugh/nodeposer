@@ -10,5 +10,14 @@
             "name": "Jon Pugh",
             "email": "jon@thinkdrop.net"
         }
-    ]
+    ],
+    "config": {
+	    "bin-dir": "bin"
+    },
+    "scripts": {
+	    "post-install-cmd": [
+		    "node -v",
+		    "npm -v"
+	    ]
+    }
 }
