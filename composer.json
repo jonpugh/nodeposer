@@ -3,7 +3,9 @@
     "description": "Node in Composer example",
     "type": "project",
     "require": {
-        "mouf/nodejs-installer": "^1.0"
+        "mouf/nodejs-installer": "^1.0",
+        "drush/drush": "^9.7",
+        "phpunit/phpunit": "^8.2"
     },
     "authors": [
         {
