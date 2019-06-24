@@ -18,6 +18,7 @@
     },
     "scripts": {
 	    "post-install-cmd": [
+		    "drush --version",
 		    "node -v",
 		    "npm -v"
 	    ]
